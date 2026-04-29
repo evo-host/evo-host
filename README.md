@@ -28,12 +28,12 @@
 
 ### 📊 My Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genxlegend&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genxlegend&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evo-host&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evo-host&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evohost&theme=radical&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evo-host&theme=radical&hide_border=true" width="94%" />
 </p>
 
 ---
