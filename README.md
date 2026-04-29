@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genxlegend&theme=radical&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evohost&theme=radical&hide_border=true" width="94%" />
 </p>
 
 ---
